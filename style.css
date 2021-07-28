@@ -44,7 +44,7 @@ h1{
 }
 
 h2{
-  font-size: 30px;  
+  font-size: 25px;  
 }
 .display-center{
     margin-left: auto;
@@ -90,6 +90,10 @@ h2{
 .extra-part{
     width: 30%;
     margin-left: 70px;
+}
+.extra-part img{
+    width: 30%;
+    padding-top: 30px;
 }
 .topnav {
     overflow: hidden;
